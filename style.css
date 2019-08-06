@@ -1,0 +1,11 @@
+body {
+
+  background-color: black;
+  background-image:url("111.jpg");
+  background-size: 1920px 1080px;
+  background-repeat: repeat;
+}
+
+.miao{
+	color:white;
+}
